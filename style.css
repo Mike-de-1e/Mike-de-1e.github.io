@@ -1,0 +1,90 @@
+h1 {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+    margin: 0 0 1rem;
+    padding-top: 1rem;
+}
+
+h1 {
+  color: #0096db;
+  }
+
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+h2 {
+    font-weight: 100;
+    font-size: 20px;
+    line-height: 28px;
+    margin: 1rem 0;
+}
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+
+}
+body {
+    font-family: Open Sans,Tahoma;
+    color: #02354e;
+    line-height: 1.5rem;
+    font-size: .875rem;
+    background-color: #fff;
+}
+
+#username{
+border-style: none;
+width: 300px;
+}
+
+#username_submit {
+  width: 360px;
+  Background-color: #0096db;
+  margin-left: 5px;
+  margin-top: 16px;
+  margin-right: 10px;
+  margin-bottom: 16px;
+  outline: none;
+  border-style: groove;
+  border: none;
+  padding: 1rem;
+  color: white;
+
+}
+  textarea:focus, input:focus
+{
+  outline: none;
+}
+#overlay
+{
+position: absolute;
+margin-top: -59px;
+margin-left: 45px;
+
+}
+
+#rechtskind {
+position: absolute;
+margin-left: 687px;
+margin-top: -435px;
+}
+
+#wrapper
+{
+  margin-left: 150px;
+  margin-top: 15px;
+}
+#logo
+{
+  margin-left: -8px;
+}
